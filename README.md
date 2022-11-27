@@ -21,3 +21,5 @@ Nhiệm vụ thất bại
 ## Video demo gameplay
 [![Watch the video](https://img.youtube.com/vi/-L38doqDpvY/maxresdefault.jpg)](https://youtu.be/-L38doqDpvY)
 https://youtu.be/-L38doqDpvY
+
+## Link APK [Link](https://drive.google.com/file/d/1Zk_ojeezuWXf3f-2Wv7ntPsKjptBbWCK/view?usp=share_link)
